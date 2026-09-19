@@ -6,6 +6,8 @@ I'm just another random developer who likes turning ideas into actual things.
 
 I work across **web development, 3D, creative coding, AI, and software experiments**, usually mixing technologies that probably weren't meant to be mixed.
 
+Most of my work as of now is private 😉
+
 ## 🧰 Tech Stack
 
 ### Languages
@@ -62,7 +64,7 @@ I work across **web development, 3D, creative coding, AI, and software experimen
 
 ## 🧪 What I Like Building
 
-I enjoy projects that sit somewhere between **software and experimentation**.
+I like building things that are **creative, experimental, and a little not so normal**.
 
 Things like:
 
