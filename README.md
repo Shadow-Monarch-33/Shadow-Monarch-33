@@ -22,44 +22,42 @@
 
 ---
 
-
-<h2>👋 About Me</h2>
-
-<blockquote>
-  <em>"I wonder if I could build that..."</em>
-  <br>
-  <strong>— Me at 3 AM</strong>
-</blockquote>
-
-<p>
-  Hey! I'm <strong>Shadow Monarch</strong>, a student developer
-  who spends way too much time turning random ideas into
-  random stuff that just.. works!
-</p>
-
-<p>
-  I don't really stick to one thing. One day it's a web app,
-  the next it's a simulation, a 3D experiment, or some
-  completely unnecessary tool that somehow becomes useful (or not).
-</p>
-
 <table>
 <tr>
 <td width="50%" valign="top">
 <h3>⚡ Currently</h3>
-<p>Building <strong>oddlore</strong> and <strong>A Perm</strong>, while exploring whatever catches my curiosity next.</p>
+<p>
+Building <strong>oddlore</strong> and <strong>A Perm</strong>,
+while exploring whatever catches my curiosity next.
+</p>
 </td>
 <td width="50%" valign="top">
 <h3>🧠 My Approach</h3>
-<p>Experiment first. Break things. Figure out why. Make them better. Repeat.</p>
+<p>
+Experiment. Break things. Figure out why.
+Make them better. Repeat.
+</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<h3>♟️ Beyond the Code</h3>
+<p>
+When I'm not building something, you'll probably find me
+playing chess, solving Rubik's cubes, or getting
+unreasonably invested in a new challenge.
+</p>
+<p>
+<em>Different puzzles. Same obsession with figuring things out.</em>
+</p>
+
+<p align="center">
+<img src="https://www.gitskins.com/api/section/chess?username=shadow-monarch-33&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F293586478%3Fu%3D836a097c4b440b315fc6c8fdca534b9a16ad6bb4%26v%3D4&v=showcase-chess-2" alt="Shadow Monarch chess visual" />
+</p>
+
 </td>
 </tr>
 </table>
-
-<p>
-  🔒 <em>Most of my projects are private for now.
-  The interesting ones will find their way out eventually.</em>
-</p>
 
 ---
 
