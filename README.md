@@ -96,8 +96,7 @@ finding things you never knew existed.
 <p>
 A space built for speedcubers, by a speedcuber.
 Track your solves, explore your stats, and sharpen
-your algorithms — from your first sub-30 to chasing
-those last few milliseconds.
+your algorithms, from your first sub-30 to as fast as you possibly can!
 </p>
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" title="TypeScript" />
