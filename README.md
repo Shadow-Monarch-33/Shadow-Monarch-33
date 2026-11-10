@@ -2,14 +2,29 @@
 <div align="center">
 
 <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=shadow-monarch-33&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F293586478%3Fu%3D836a097c4b440b315fc6c8fdca534b9a16ad6bb4%26v%3D4&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=shadow-monarch-33&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F293586478%3Fu%3D836a097c4b440b315fc6c8fdca534b9a16ad6bb4%26v%3D4&mode=dark" width="100%" alt="Shadow Monarch — profile" />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://www.gitskins.com/api/section/hero?username=shadow-monarch-33&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F293586478%3Fu%3D836a097c4b440b315fc6c8fdca534b9a16ad6bb4%26v%3D4&mode=light&v=2"
+  />
+  <img
+    src="https://www.gitskins.com/api/section/hero?username=shadow-monarch-33&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F293586478%3Fu%3D836a097c4b440b315fc6c8fdca534b9a16ad6bb4%26v%3D4&mode=dark&v=2"
+    width="100%"
+    alt="Shadow Monarch — profile"
+  />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/solar-orbits?username=shadow-monarch-33&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F293586478%3Fu%3D836a097c4b440b315fc6c8fdca534b9a16ad6bb4%26v%3D4&mode=light" />
-  <img src="https://www.gitskins.com/api/section/solar-orbits?username=shadow-monarch-33&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F293586478%3Fu%3D836a097c4b440b315fc6c8fdca534b9a16ad6bb4%26v%3D4&mode=dark" width="100%" alt="My languages as planets around me" />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://www.gitskins.com/api/section/solar-orbits?username=shadow-monarch-33&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F293586478%3Fu%3D836a097c4b440b315fc6c8fdca534b9a16ad6bb4%26v%3D4&mode=light&v=2"
+  />
+  <img
+    src="https://www.gitskins.com/api/section/solar-orbits?username=shadow-monarch-33&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F293586478%3Fu%3D836a097c4b440b315fc6c8fdca534b9a16ad6bb4%26v%3D4&mode=dark&v=2"
+    width="100%"
+    alt="My languages as planets around me"
+  />
 </picture>
+
 
 <p>
 <strong>Building cool ideas and sometimes weird but useful tools!</strong>
@@ -113,8 +128,15 @@ your algorithms, from your first sub-30 to as fast as you possibly can!
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=shadow-monarch-33&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F293586478%3Fu%3D836a097c4b440b315fc6c8fdca534b9a16ad6bb4%26v%3D4&mode=light" />
-    <img src="https://www.gitskins.com/api/section/heatmap?username=shadow-monarch-33&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F293586478%3Fu%3D836a097c4b440b315fc6c8fdca534b9a16ad6bb4%26v%3D4&mode=dark" width="100%" alt="33 contributions in the last year" />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://www.gitskins.com/api/section/heatmap?username=shadow-monarch-33&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F293586478%3Fu%3D836a097c4b440b315fc6c8fdca534b9a16ad6bb4%26v%3D4&mode=light&v=2"
+    />
+    <img
+      src="https://www.gitskins.com/api/section/heatmap?username=shadow-monarch-33&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F293586478%3Fu%3D836a097c4b440b315fc6c8fdca534b9a16ad6bb4%26v%3D4&mode=dark&v=2"
+      width="100%"
+      alt="GitHub contribution heatmap"
+    />
   </picture>
 </p>
 
