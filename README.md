@@ -9,11 +9,19 @@
 ---
   
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Shadow-Monarch-33/github-solar-system/main/output/solar-system.svg"
-    alt="My GitHub Solar System"
-    width="100%"
-  />
+<img
+ src="https://raw.githubusercontent.com/Shadow-Monarch-33/github-solar-system/main/output/solar-system.svg"
+ alt="My GitHub Solar System"
+ width="100%"
+/>
+
+</p>
+
+<p align="center">
+  <sub>
+     🪐 Built with Python & SVG 🪐
+    <a href="https://github.com/Shadow-Monarch-33/github-solar-system"><strong>Explore the source ↗</strong></a>
+  </sub>
 </p>
 
 ---
