@@ -5,11 +5,18 @@
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=shadow-monarch-33&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F293586478%3Fu%3D836a097c4b440b315fc6c8fdca534b9a16ad6bb4%26v%3D4&mode=light" />
     <img src="https://www.gitskins.com/api/section/hero?username=shadow-monarch-33&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F293586478%3Fu%3D836a097c4b440b315fc6c8fdca534b9a16ad6bb4%26v%3D4&mode=dark" width="100%" alt="Shadow Monarch — profile" />
   </picture>
+
+---
   
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/solar-orbits?username=shadow-monarch-33&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F293586478%3Fu%3D836a097c4b440b315fc6c8fdca534b9a16ad6bb4%26v%3D4&mode=light" />
-  <img src="https://www.gitskins.com/api/section/solar-orbits?username=shadow-monarch-33&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F293586478%3Fu%3D836a097c4b440b315fc6c8fdca534b9a16ad6bb4%26v%3D4&mode=dark" width="100%" alt="Shadow Monarch's languages as planets" />
-</picture>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Shadow-Monarch-33/github-solar-system/main/output/solar-system.svg"
+    alt="My GitHub Solar System"
+    width="100%"
+  />
+</p>
+
+---
 
 <p>
 <strong>Building cool ideas and sometimes weird but useful tools!</strong>
