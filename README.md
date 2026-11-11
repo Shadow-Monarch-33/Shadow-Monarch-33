@@ -68,7 +68,7 @@ unreasonably invested in a new challenge.
 
 ---
 
-<escape>## 🚀 Projects I'm Working On
+## 🚀 Projects I'm Working On
 
 A few things I've been bringing to life.
 
@@ -112,7 +112,7 @@ your algorithms, from your first sub-30 to as fast as you possibly can!
 </p>
 </td>
 </tr>
-</table></escape>
+</table>
 
 ---
 
@@ -189,56 +189,107 @@ your algorithms, from your first sub-30 to as fast as you possibly can!
 
 ---
 
-<h2>✦ Things I Love Building</h2>
+## ✦ Things I Love Building
 
 <p>
-I like experimenting with ideas that are creative,
-unconventional, and occasionally a little ridiculous.
+I build whatever catches my curiosity — from interactive worlds and playful websites to AI experiments and tools that solve oddly specific problems.
+</p>
+
+<p>
+Some projects start with a plan. Others start with <i>"wait, wouldn't it be cool if..."</i>
+<br>
+Those are usually my favorites.
 </p>
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>🌐 Web Experiences</h3>
-<p>Websites that feel less like pages and more like places worth exploring.</p>
+
+### 🌐 Web Experiences
+
+<img src="https://img.shields.io/badge/EXPLORE-38BDF8?style=flat-square&labelColor=0B1726" alt="Explore" />
+
+Websites that feel like little worlds of their own. Less clicking through pages, more discovering something unexpected.
+
 </td>
 <td width="50%" valign="top">
-<h3>🎨 Creative Interfaces</h3>
-<p>Beautiful interactions, playful animations, and tiny details that make software feel alive.</p>
+
+### 🎨 Creative Interfaces
+
+<img src="https://img.shields.io/badge/INTERACT-C084FC?style=flat-square&labelColor=211330" alt="Interact" />
+
+Interfaces with personality. Smooth transitions, clever interactions, and the kind of tiny details you don't notice until they're missing.
+
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
-<h3>🧊 3D & Immersive Worlds</h3>
-<p>Experimenting with depth, movement, and experiences that go beyond flat screens.</p>
+
+### 🧊 3D & Immersive Worlds
+
+<img src="https://img.shields.io/badge/IMAGINE-2DD4BF?style=flat-square&labelColor=0D2523" alt="Imagine" />
+
+Depth, motion, and digital spaces you can almost step into. Still experimenting, still figuring out how far I can push it.
+
 </td>
 <td width="50%" valign="top">
-<h3>🤖 AI Experiments</h3>
-<p>Playing with intelligent systems, automation, and ideas that make me wonder what's possible.</p>
+
+### 🤖 AI & Intelligent Systems
+
+<img src="https://img.shields.io/badge/EXPERIMENT-F472B6?style=flat-square&labelColor=301426" alt="Experiment" />
+
+Playing with models, automation, and intelligent tools. Sometimes useful, sometimes weird, usually worth exploring.
+
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
-<h3>🎮 Interactive Playgrounds</h3>
-<p>Games, simulations, and things people can actually mess around with.</p>
+
+### 🎮 Games & Simulations
+
+<img src="https://img.shields.io/badge/PLAY-FBBF24?style=flat-square&labelColor=30240B" alt="Play" />
+
+Things you can actually interact with. Games, simulations, virtual experiments, and anything that rewards curiosity.
+
 </td>
 <td width="50%" valign="top">
-<h3>⚙️ Developer Tools</h3>
-<p>Building the tools I wish existed, even if I'm the only person who needs them.</p>
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-<h3>🧪 The Weird Stuff</h3>
-<p>Random ideas, questionable experiments, and projects that started with "wait, what if this existed..."</p>
-<p><strong>Sometimes they work. Sometimes they don't. That's the fun part.</strong></p>
+
+### ⚙️ Developer Tools
+
+<img src="https://img.shields.io/badge/BUILD-FB923C?style=flat-square&labelColor=302012" alt="Build" />
+
+Tools I wish existed, solutions to niche problems, and utilities that make life just a little easier. Even if the first user is me.
+
 </td>
 </tr>
 </table>
 
-<div align="center">
-<br>
-<i>I don't really have a single lane.</i>
-<br>
-<strong>That's kind of the whole point.</strong>
-</div>
+<table>
+<tr>
+<td align="center">
+
+### 🧪 And Then There's the Weird Stuff...
+
+<img src="https://img.shields.io/badge/STATUS-EXPERIMENTAL-111827?style=flat-square&labelColor=EF4444&color=7C3AED" alt="Experimental" />
+
+The ideas that don't fit into any category.
+
+Unreasonable concepts. Late-night rabbit holes. Projects that probably don't need to exist, but somehow end up existing anyway.
+
+**Some work. Some spectacularly don't. Both teach me something.**
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CURIOSITY-ALWAYS_ON-38BDF8?style=flat-square&labelColor=111827" alt="Curiosity always on" />
+  <img src="https://img.shields.io/badge/IDEAS-NO_LIMIT-7C3AED?style=flat-square&labelColor=111827" alt="Ideas no limit" />
+  <img src="https://img.shields.io/badge/EXPERIMENTS-IN_PROGRESS-2DD4BF?style=flat-square&labelColor=111827" alt="Experiments in progress" />
+</p>
+
+<p align="center">
+  <i>I don't really have one lane. That's kind of the fun part.</i>
+</p>
