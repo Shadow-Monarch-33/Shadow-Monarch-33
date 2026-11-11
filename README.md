@@ -68,7 +68,7 @@ unreasonably invested in a new challenge.
 
 ---
 
-## 🚀 Projects I'm Working On
+<escape>## 🚀 Projects I'm Working On
 
 A few things I've been bringing to life.
 
@@ -87,9 +87,9 @@ unexpected ideas, rabbit holes, and the joy of
 finding things you never knew existed.
 </p>
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" title="React" />
-<img src="https://api.iconify.design/lucide/palette.svg?color=%23A78BFA" width="40" height="40" alt="Creative Web" title="Creative Web" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Creative_Web-A78BFA?style=flat-square&logo=palette&logoColor=white" alt="Creative Web" />
 </p>
 <p>
 <a href="https://oddlore.app"><strong>Explore oddlore ↗</strong></a>
@@ -106,13 +106,13 @@ Track your solves, explore your stats, and sharpen
 your algorithms, from your first sub-30 to as fast as you possibly can!
 </p>
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" title="TypeScript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" title="React" />
-<img src="https://raw.githubusercontent.com/cubing/cubing.js/main/cubing.js.png" width="80" height="40" alt="cubing.js" title="cubing.js" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/cubing.js-333333?style=flat-square" alt="cubing.js" />
 </p>
 </td>
 </tr>
-</table>
+</table></escape>
 
 ---
 
